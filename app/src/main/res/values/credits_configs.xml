@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://ws1.sinaimg.cn/large/005UE3iNly1g5fxm3zplzj30hs0hsq3w.jpg</item>
+        <item>https://ws1.sinaimg.cn/large/005UE3iNly1g5fxmnxqv6j31hc1hc1kx.jpg</item>
+        <item>https://ws1.sinaimg.cn/large/005UE3iNly1g5fxflfir4j30hs0hst9x.jpg</item>
+        <item>https://ws1.sinaimg.cn/large/005UE3iNly1g5fxp8prb5j30u00u00yx.jpg</item>
+        <item>https://ws1.sinaimg.cn/large/005UE3iNly1g5fxpgl831j31hc0u0q7t.jpg</item>
+        <item>https://img.vim-cn.com/07/b3529b52f3de75312f8271465a0187874fff85.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>J. Zhang</item>
+        <item>Kiyoi Bread（sftmi）</item>
+        <item>PzHown</item>
+        <item>Concision</item>
+        <item>HUANG07</item>
+        <item>Butanediol</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Original designer</item>
+        <item>狗屎派图标提供者。</item>
+        <item>Design contribution</item>
+        <item>I AM CONCISION~</item>
+        <item>There is still a long way to go in UI design around the world, and if everyone is careful, it will be a little shorter.
+</item>
+        <item>Fanatic vector fan</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Alipay|Bilibili|Coolapk</item>
+        <item>Coolapk</item>
+        <item>Coolapk</item>
+        <item>Coolapk</item>
+        <item>Coolapk|Weibo|Twitter</item>
+        <item>Twitter</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://qr.alipay.com/FKX04291LAMQD3TNYBDIDF|https://space.bilibili.com/10620543|http://www.coolapk.com/u/750022</item>
+        <item>http://www.coolapk.com/u/491391</item>
+        <item>http://www.coolapk.com/u/464418</item>
+        <item>http://www.coolapk.com/u/1072839</item>
+        <item>http://www.coolapk.com/u/769307|http://weibo.com/u/5514122842|https://twitter.com/h3148655620?s=09</item>
+        <item>https://twitter.com/TucaoLiuOnline</item>
+    </string-array>
+</resources>

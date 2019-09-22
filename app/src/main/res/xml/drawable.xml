@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <category title="Newly Added (3.0.0)" />
+    <item drawable="google_drive" />
+    <item drawable="ifanr" />
+    <item drawable="mikunavi" />
+    <item drawable="mokee_center" />
+
+    <category title="activities_and_alternative" />
+    <item drawable="aide_alt" />
+    <item drawable="alipay_1" />
+    <item drawable="alipay_2" />
+    <item drawable="alipay_3" />
+    <item drawable="bilibili_alt" />
+    <item drawable="coolapk_article" />
+    <item drawable="gallery_alt" />
+    <item drawable="go_hosts_alt" />
+    <item drawable="google_play_alt" />
+    <item drawable="icon_dog" />
+    <item drawable="icon_peppa" />
+    <item drawable="icon_sakura" />
+    <item drawable="meitu_alt" />
+    <item drawable="mourn_at_bullet_messenger" />
+    <item drawable="mx_player_alt" />
+    <item drawable="nova_settings" />
+    <item drawable="one_wooden_letter_v7" />
+    <item drawable="qqmusic_alt" />
+    <item drawable="snapseed_alt" />
+    <item drawable="tabikaeru_alt" />
+    <item drawable="tabikaeru_alt2" />
+    <item drawable="video_alt" />
+    <item drawable="wechatpay_1" />
+    <item drawable="wechatpay_2" />
+    <item drawable="xiaoyuan_souti_alt" />
+    <item drawable="yiju_gou" />
+
+    <category title="a" />
+    <item drawable="account" />
+    <item drawable="aide_alt" />
+    <item drawable="aide" />
+    <item drawable="air_frozen" />
+    <item drawable="alipay_1" />
+    <item drawable="alipay_2" />
+    <item drawable="alipay_3" />
+    <item drawable="alipay" />
+    <item drawable="allo" />
+    <item drawable="amap" />
+    <item drawable="apkpure" />
+    <item drawable="appchecker" />
+    <item drawable="audio_fx" />
+    <item drawable="autodesk_sketchbook" />
+    <item drawable="azurlane" />
+
+
+    <category title="b" />
+    <item drawable="baidu_map" />
+    <item drawable="baidu_netdisk" />
+    <item drawable="baidu_tieba" />
+    <item drawable="baimiao" />
+    <item drawable="bilibili_alt" />
+    <item drawable="bilibili_concept" />
+    <item drawable="bilibili" />
+    <item drawable="bing" />
+    <item drawable="block_launcher" />
+    <item drawable="blue_iconpack" />
+    <item drawable="blued_intl" />
+    <item drawable="blued" />
+    <item drawable="bmac" />
+    <item drawable="bmap" />
+    <item drawable="brevent" />
+    <item drawable="browser" />
+    <item drawable="bullet_messenger" />
+
+
+    <category title="c" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="canva" />
+    <item drawable="ccb" />
+    <item drawable="chelaile" />
+    <item drawable="china_telecom" />
+    <item drawable="chrome" />
+    <item drawable="clock" />
+    <item drawable="cloudmusic" />
+    <item drawable="cntv" />
+    <item drawable="coloros_community" />
+    <item drawable="compass" />
+    <item drawable="contacts" />
+    <item drawable="coolapk_article" />
+    <item drawable="coolapk_vn" />
+    <item drawable="coolapk" />
+    <item drawable="cornerx" />
+    <item drawable="cortana" />
+    <item drawable="cr_12306" />
+    <item drawable="ct_ecloud" />
+    <item drawable="ct_pay" />
+    <item drawable="ctrip" />
+    <item drawable="cytus_ii" />
+
+
+    <category title="d" />
+    <item drawable="dancing_line" />
+    <item drawable="dev_check" />
+    <item drawable="didi" />
+    <item drawable="dir" />
+    <item drawable="dolby_atmos" />
+    <item drawable="douyu" />
+    <item drawable="download" />
+    <item drawable="download" />
+    <item drawable="drawer" />
+    <item drawable="duet" />
+    <item drawable="duokan" />
+
+
+    <category title="e" />
+    <item drawable="edge" />
+    <item drawable="ele_me" />
+    <item drawable="email" />
+    <item drawable="es" />
+    <item drawable="evernote" />
+
+
+    <category title="f" />
+    <item drawable="facebook" />
+    <item drawable="fate_grand_order" />
+    <item drawable="files_go" />
+    <item drawable="files" />
+    <item drawable="flugilo" />
+    <item drawable="fm_radio" />
+    <item drawable="forfan_bigbang" />
+    <item drawable="french_helper" />
+    <item drawable="fusion_app" />
+
+
+    <category title="g" />
+    <item drawable="gallery_alt" />
+    <item drawable="gallery" />
+    <item drawable="gboard" />
+    <item drawable="geometric_weather" />
+    <item drawable="gmail" />
+    <item drawable="go_hosts_alt" />
+    <item drawable="go_hosts" />
+    <item drawable="goodseed" />
+    <item drawable="google_calculator" />
+    <item drawable="google_cantonese_input" />
+    <item drawable="google_japanese_input" />
+    <item drawable="google_keep" />
+    <item drawable="google_maps" />
+    <item drawable="google_pinyin_input" />
+    <item drawable="google_play_alt" />
+    <item drawable="google_play_games" />
+    <item drawable="google_play" />
+    <item drawable="google_space" />
+    <item drawable="google_tasks" />
+    <item drawable="google_translate" />
+    <item drawable="google_zhuyin_input" />
+    <item drawable="google" />
+    <item drawable="greenify" />
+
+
+    <category title="h" />
+    <item drawable="health" />
+    <item drawable="huawei_club" />
+
+
+    <category title="i" />
+    <item drawable="icebox" />
+    <item drawable="icon_dog" />
+    <item drawable="icon_peppa" />
+    <item drawable="icon_sakura" />
+    <item drawable="icon" />
+    <item drawable="idlefish" />
+    <item drawable="ifttt" />
+    <item drawable="imlk_oneword" />
+    <item drawable="ingress" />
+    <item drawable="iqiyi" />
+    <item drawable="ithome" />
+
+
+    <category title="j" />
+    <item drawable="jd" />
+    <item drawable="jianshu" />
+    <item drawable="jike" />
+
+
+    <category title="k" />
+    <item drawable="keep" />
+    <item drawable="kingsoft_powerword" />
+
+
+    <category title="l" />
+    <item drawable="lantern" />
+    <item drawable="lawnchair" />
+    <item drawable="le_sync" />
+    <item drawable="liulishuo" />
+    <item drawable="lovelive" />
+    <item drawable="lp" />
+    <item drawable="lyuye_vpn" />
+
+
+    <category title="m" />
+    <item drawable="magisk" />
+    <item drawable="manga_monster" />
+    <item drawable="maps" />
+    <item drawable="market" />
+    <item drawable="mega" />
+    <item drawable="meitu_alt" />
+    <item drawable="meitu" />
+    <item drawable="meituan" />
+    <item drawable="memeda" />
+    <item drawable="mi_bbs" />
+    <item drawable="mi_channel" />
+    <item drawable="mi_feedback" />
+    <item drawable="mi_finance" />
+    <item drawable="mi_fit" />
+    <item drawable="mi_game" />
+    <item drawable="mi_home" />
+    <item drawable="mi_joy" />
+    <item drawable="mi_life" />
+    <item drawable="mi_recorder" />
+    <item drawable="mi_store" />
+    <item drawable="mi_video" />
+    <item drawable="mi_virtualsim" />
+    <item drawable="mi_wallet" />
+    <item drawable="mico" />
+    <item drawable="microsoft_excel" />
+    <item drawable="microsoft_launcher" />
+    <item drawable="microsoft_powerpoint" />
+    <item drawable="microsoft_word" />
+    <item drawable="minecraft" />
+    <item drawable="mini_metro" />
+    <item drawable="miui_bbs" />
+    <item drawable="mogicians_manual" />
+    <item drawable="mokee_center" />
+    <item drawable="more_shortcuts" />
+    <item drawable="mourn_at_bullet_messenger" />
+    <item drawable="mr_translator" />
+    <item drawable="mt" />
+    <item drawable="music_tag_editor" />
+    <item drawable="music" />
+    <item drawable="mx_player_alt" />
+    <item drawable="mx_player" />
+
+
+    <category title="n" />
+    <item drawable="netease_news" />
+    <item drawable="news" />
+    <item drawable="night_screen" />
+    <item drawable="nokia_evolve_plus" />
+    <item drawable="notes" />
+    <item drawable="nova_launcher" />
+    <item drawable="nova_settings" />
+
+
+    <category title="o" />
+    <item drawable="oblatum_dev" />
+    <item drawable="oblatum" />
+    <item drawable="ofo" />
+    <item drawable="omfg_air" />
+    <item drawable="omfg_lite" />
+    <item drawable="omfg" />
+    <item drawable="one_diary" />
+    <item drawable="one_wooden_letter_v7" />
+    <item drawable="one_wooden_letter" />
+    <item drawable="onedrive" />
+    <item drawable="oneplus_community" />
+    <item drawable="oneplus_switch" />
+    <item drawable="onmyoji_bili" />
+    <item drawable="onmyoji" />
+    <item drawable="oppo_bookstore" />
+    <item drawable="oppo_clone" />
+    <item drawable="oppo_data" />
+    <item drawable="oppo_find_my_phone" />
+    <item drawable="oppo_game_space" />
+    <item drawable="oppo_mini_games" />
+    <item drawable="oppo_plus" />
+    <item drawable="oppo_reading" />
+    <item drawable="oppo_tips" />
+    <item drawable="outlook" />
+
+
+    <category title="p" />
+    <item drawable="phone" />
+    <item drawable="phonograph" />
+    <item drawable="photo_editor" />
+    <item drawable="picacg" />
+    <item drawable="ppsspp" />
+    <item drawable="ps_touch" />
+    <item drawable="pure_mosaic" />
+    <item drawable="pure_writer" />
+
+
+    <category title="q" />
+    <item drawable="qeebo_geek" />
+    <item drawable="qidian" />
+    <item drawable="qq_hd" />
+    <item drawable="qq_intl" />
+    <item drawable="qq_mail" />
+    <item drawable="qq" />
+    <item drawable="qqlite" />
+    <item drawable="qqmusic_alt" />
+    <item drawable="qqmusic" />
+    <item drawable="quark" />
+    <item drawable="quik" />
+    <item drawable="qunar" />
+    <item drawable="qzone" />
+
+
+    <category title="r" />
+    <item drawable="rbqbompass" />
+    <item drawable="recorder" />
+    <item drawable="remote" />
+    <item drawable="retro_music" />
+    <item drawable="root_explorer" />
+
+
+    <category title="s" />
+    <item drawable="sanguosha" />
+    <item drawable="scanner" />
+    <item drawable="screen_recorder" />
+    <item drawable="sd_maid" />
+    <item drawable="search_lite" />
+    <item drawable="security" />
+    <item drawable="settings" />
+    <item drawable="shanbay_listen" />
+    <item drawable="shanbay_speak" />
+    <item drawable="shanbay_words" />
+    <item drawable="share" />
+    <item drawable="shimo" />
+    <item drawable="shuibiaocha_zhushou" />
+    <item drawable="shuttle_plus" />
+    <item drawable="sim_toolkit" />
+    <item drawable="simcity" />
+    <item drawable="sms" />
+    <item drawable="snapseed_alt" />
+    <item drawable="snapseed" />
+    <item drawable="sohu_video" />
+    <item drawable="solid_explorer" />
+    <item drawable="spotify" />
+    <item drawable="ssr" />
+    <item drawable="ssrr" />
+    <item drawable="stopapp" />
+    <item drawable="storage_cleaner" />
+    <item drawable="substratum" />
+    <item drawable="surf_vpn" />
+    <item drawable="sys_update" />
+
+
+    <category title="t" />
+    <item drawable="tabikaeru_alt" />
+    <item drawable="tabikaeru_alt2" />
+    <item drawable="tabikaeru" />
+    <item drawable="taobao" />
+    <item drawable="taptap" />
+    <item drawable="telegram_x" />
+    <item drawable="telegram" />
+    <item drawable="tencent_karaoke" />
+    <item drawable="tencent_video" />
+    <item drawable="tesla_unread" />
+    <item drawable="themes" />
+    <item drawable="tim" />
+    <item drawable="tmri_12123" />
+    <item drawable="tom_vpn" />
+    <item drawable="total_launcher" />
+    <item drawable="toutiao" />
+    <item drawable="tumblr" />
+    <item drawable="twitter" />
+
+
+    <category title="u" />
+
+
+
+    <category title="v" />
+    <item drawable="via" />
+    <item drawable="video_alt" />
+    <item drawable="video" />
+    <item drawable="voice_assistant" />
+    <item drawable="vpn_melon" />
+
+
+    <category title="w" />
+    <item drawable="wangzhe_rongyao" />
+    <item drawable="weather" />
+    <item drawable="wechat" />
+    <item drawable="wechatpay_1" />
+    <item drawable="wechatpay_2" />
+    <item drawable="weibo_intl" />
+    <item drawable="weibo" />
+    <item drawable="weiyun" />
+    <item drawable="wifi_key" />
+    <item drawable="wisdomtree_zhidao" />
+    <item drawable="wps_office" />
+
+
+    <category title="x" />
+    <item drawable="xiaoai" />
+    <item drawable="xiaoyuan_souti_alt" />
+    <item drawable="xiaoyuan_souti" />
+    <item drawable="ximalaya" />
+    <item drawable="xinhua_zidian" />
+    <item drawable="xposed_installer" />
+    <item drawable="xuexi_qiangguo" />
+    <item drawable="xunlei" />
+    <item drawable="xyz_notes" />
+
+
+    <category title="y" />
+    <item drawable="yiju_gou" />
+    <item drawable="yiju" />
+    <item drawable="ylmf_115" />
+    <item drawable="youku" />
+    <item drawable="youpin" />
+    <item drawable="youtube" />
+    <item drawable="yunduo_night_tools" />
+
+
+    <category title="z" />
+    <item drawable="zarchiver_pro" />
+    <item drawable="zarchiver" />
+    <item drawable="zcool" />
+    <item drawable="zhihu" />
+    <item drawable="zhimi_words" />
+    <item drawable="zhixue" />
+    <item drawable="zhuanzhuan" />
+    <item drawable="zlive" />
+    <item drawable="zuoyebang" />
+
+
+</resources>
+

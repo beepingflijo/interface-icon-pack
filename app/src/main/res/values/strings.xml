@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Interface IconPack</string>
+	<string name="default_download_folder">%1$s/My App Name/Wallpapers</string>
+	<string name="app_description">A harmonious combination of icon and UI</string>
+</resources>

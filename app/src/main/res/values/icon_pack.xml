@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike 
+  ~ 4.0 International License. You may not use this file except in compliance 
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
+    <string-array name="icons_preview">
+        <item>account</item>
+        <item>aegis</item>
+        <item>aide_alt</item>
+        <item>aide</item>
+        <item>air_frozen</item>
+        <item>alipay_1</item>
+        <item>alipay_2</item>
+        <item>alipay_3</item>
+        <item>alipay</item>
+        <item>allo</item>
+        <item>amap</item>
+        <item>apkpure</item>
+        <item>appchecker</item>
+        <item>audio_fx</item>
+        <item>autodesk_sketchbook</item>
+        <item>azurlane</item>
+        <item>baidu_map</item>
+        <item>baidu_netdisk</item>
+        <item>baidu_tieba</item>
+        <item>baimiao</item>
+        <item>bilibili_alt</item>
+        <item>bilibili_concept</item>
+        <item>bilibili</item>
+        <item>bing</item>
+        <item>block_launcher</item>
+        <item>blue_iconpack</item>
+        <item>blued_intl</item>
+        <item>blued</item>
+        <item>bmac</item>
+        <item>bmap</item>
+        <item>brevent</item>
+        <item>browser</item>
+        <item>bullet_messenger</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>canva</item>
+        <item>ccb</item>
+        <item>chelaile</item>
+        <item>china_telecom</item>
+        <item>chrome</item>
+        <item>clock</item>
+        <item>cloudmusic</item>
+        <item>cntv</item>
+        <item>coloros_community</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>coolapk_article</item>
+        <item>coolapk_vn</item>
+        <item>coolapk</item>
+        <item>cornerx</item>
+        <item>cortana</item>
+        <item>cr_12306</item>
+        <item>ct_ecloud</item>
+        <item>ct_pay</item>
+        <item>ctrip</item>
+        <item>cytus_ii</item>
+        <item>dancing_line</item>
+        <item>dev_check</item>
+        <item>didi</item>
+        <item>dir</item>
+        <item>dolby_atmos</item>
+        <item>douyu</item>
+        <item>download</item>
+        <item>download</item>
+        <item>drawer</item>
+        <item>duet</item>
+        <item>duokan</item>
+        <item>edge</item>
+        <item>ele_me</item>
+        <item>email</item>
+        <item>es</item>
+        <item>evernote</item>
+        <item>facebook</item>
+        <item>fate_grand_order</item>
+        <item>files_go</item>
+        <item>files</item>
+        <item>flugilo</item>
+        <item>fm_radio</item>
+        <item>forfan_bigbang</item>
+        <item>french_helper</item>
+        <item>fusion_app</item>
+        <item>gallery_alt</item>
+        <item>gallery</item>
+        <item>gboard</item>
+        <item>geometric_weather</item>
+        <item>gmail</item>
+        <item>go_hosts_alt</item>
+        <item>go_hosts</item>
+        <item>goodseed</item>
+        <item>google_calculator</item>
+        <item>google_cantonese_input</item>
+        <item>google_drive</item>
+        <item>google_japanese_input</item>
+        <item>google_keep</item>
+        <item>google_maps</item>
+        <item>google_pinyin_input</item>
+        <item>google_play_alt</item>
+        <item>google_play_games</item>
+        <item>google_play</item>
+        <item>google_space</item>
+        <item>google_tasks</item>
+        <item>google_translate</item>
+        <item>google_zhuyin_input</item>
+        <item>google</item>
+        <item>greenify</item>
+        <item>health</item>
+        <item>huawei_club</item>
+        <item>icebox</item>
+        <item>icon_dog</item>
+        <item>icon_peppa</item>
+        <item>icon_sakura</item>
+        <item>icon</item>
+        <item>idlefish</item>
+        <item>ifanr</item>
+        <item>ifttt</item>
+        <item>imlk_oneword</item>
+        <item>ingress</item>
+        <item>iqiyi</item>
+        <item>ithome</item>
+        <item>jd</item>
+        <item>jianshu</item>
+        <item>jike</item>
+        <item>keep</item>
+        <item>kingsoft_powerword</item>
+        <item>lantern</item>
+        <item>lawnchair</item>
+        <item>le_sync</item>
+        <item>liulishuo</item>
+        <item>lovelive</item>
+        <item>lp</item>
+        <item>lyuye_vpn</item>
+        <item>magisk</item>
+        <item>manga_monster</item>
+        <item>maps</item>
+        <item>market</item>
+        <item>mega</item>
+        <item>meitu_alt</item>
+        <item>meitu</item>
+        <item>meituan</item>
+        <item>memeda</item>
+        <item>mi_bbs</item>
+        <item>mi_channel</item>
+        <item>mi_feedback</item>
+        <item>mi_finance</item>
+        <item>mi_fit</item>
+        <item>mi_game</item>
+        <item>mi_home</item>
+        <item>mi_joy</item>
+        <item>mi_life</item>
+        <item>mi_recorder</item>
+        <item>mi_store</item>
+        <item>mi_video</item>
+        <item>mi_virtualsim</item>
+        <item>mi_wallet</item>
+        <item>mico</item>
+        <item>microsoft_excel</item>
+        <item>microsoft_launcher</item>
+        <item>microsoft_powerpoint</item>
+        <item>microsoft_word</item>
+        <item>minecraft</item>
+        <item>mini_metro</item>
+        <item>miui_bbs</item>
+        <item>mogicians_manual</item>
+        <item>mokee_center</item>
+        <item>more_shortcuts</item>
+        <item>mourn_at_bullet_messenger</item>
+        <item>mr_translator</item>
+        <item>mt</item>
+        <item>music_tag_editor</item>
+        <item>music</item>
+        <item>mx_player_alt</item>
+        <item>mx_player</item>
+        <item>netease_news</item>
+        <item>news</item>
+        <item>night_screen</item>
+        <item>nokia_evolve_plus</item>
+        <item>notes</item>
+        <item>nova_launcher</item>
+        <item>nova_settings</item>
+        <item>oblatum_dev</item>
+        <item>oblatum</item>
+        <item>ofo</item>
+        <item>omfg_air</item>
+        <item>omfg_lite</item>
+        <item>omfg</item>
+        <item>one_diary</item>
+        <item>one_wooden_letter_v7</item>
+        <item>one_wooden_letter</item>
+        <item>onedrive</item>
+        <item>oneplus_community</item>
+        <item>oneplus_switch</item>
+        <item>onmyoji_bili</item>
+        <item>onmyoji</item>
+        <item>oppo_bookstore</item>
+        <item>oppo_clone</item>
+        <item>oppo_data</item>
+        <item>oppo_find_my_phone</item>
+        <item>oppo_game_space</item>
+        <item>oppo_mini_games</item>
+        <item>oppo_plus</item>
+        <item>oppo_reading</item>
+        <item>oppo_tips</item>
+        <item>outlook</item>
+        <item>phone</item>
+        <item>phonograph</item>
+        <item>photo_editor</item>
+        <item>picacg</item>
+        <item>ppsspp</item>
+        <item>ps_touch</item>
+        <item>pure_mosaic</item>
+        <item>pure_writer</item>
+        <item>qeebo_geek</item>
+        <item>qidian</item>
+        <item>qq_hd</item>
+        <item>qq_intl</item>
+        <item>qq_mail</item>
+        <item>qq</item>
+        <item>qqlite</item>
+        <item>qqmusic_alt</item>
+        <item>qqmusic</item>
+        <item>quark</item>
+        <item>quik</item>
+        <item>qunar</item>
+        <item>qzone</item>
+        <item>rbqbompass</item>
+        <item>recorder</item>
+        <item>remote</item>
+        <item>retro_music</item>
+        <item>root_explorer</item>
+        <item>sanguosha</item>
+        <item>scanner</item>
+        <item>screen_recorder</item>
+        <item>sd_maid</item>
+        <item>search_lite</item>
+        <item>security</item>
+        <item>settings</item>
+        <item>shanbay_listen</item>
+        <item>shanbay_speak</item>
+        <item>shanbay_words</item>
+        <item>share</item>
+        <item>shimo</item>
+        <item>shuibiaocha_zhushou</item>
+        <item>shuttle_plus</item>
+        <item>sim_toolkit</item>
+        <item>simcity</item>
+        <item>sms</item>
+        <item>snapseed_alt</item>
+        <item>snapseed</item>
+        <item>sohu_video</item>
+        <item>solid_explorer</item>
+        <item>spotify</item>
+        <item>ssr</item>
+        <item>ssrr</item>
+        <item>stopapp</item>
+        <item>storage_cleaner</item>
+        <item>substratum</item>
+        <item>surf_vpn</item>
+        <item>sys_update</item>
+        <item>tabikaeru_alt</item>
+        <item>tabikaeru_alt2</item>
+        <item>tabikaeru</item>
+        <item>taobao</item>
+        <item>taptap</item>
+        <item>telegram_x</item>
+        <item>telegram</item>
+        <item>tencent_karaoke</item>
+        <item>tencent_video</item>
+        <item>tesla_unread</item>
+        <item>themes</item>
+        <item>tim</item>
+        <item>tmri_12123</item>
+        <item>tom_vpn</item>
+        <item>total_launcher</item>
+        <item>toutiao</item>
+        <item>tumblr</item>
+        <item>twitter</item>
+        <item>via</item>
+        <item>video_alt</item>
+        <item>video</item>
+        <item>voice_assistant</item>
+        <item>vpn_melon</item>
+        <item>wangzhe_rongyao</item>
+        <item>weather</item>
+        <item>wechat</item>
+        <item>wechatpay_1</item>
+        <item>wechatpay_2</item>
+        <item>weibo_intl</item>
+        <item>weibo</item>
+        <item>weiyun</item>
+        <item>wifi_key</item>
+        <item>wisdomtree_zhidao</item>
+        <item>wps_office</item>
+        <item>xiaoai</item>
+        <item>xiaoyuan_souti_alt</item>
+        <item>xiaoyuan_souti</item>
+        <item>ximalaya</item>
+        <item>xinhua_zidian</item>
+        <item>xposed_installer</item>
+        <item>xuexi_qiangguo</item>
+        <item>xunlei</item>
+        <item>xyz_notes</item>
+        <item>yiju_gou</item>
+        <item>yiju</item>
+        <item>ylmf_115</item>
+        <item>youku</item>
+        <item>youpin</item>
+        <item>youtube</item>
+        <item>yunduo_night_tools</item>
+        <item>zarchiver_pro</item>
+        <item>zarchiver</item>
+        <item>zcool</item>
+        <item>zhihu</item>
+        <item>zhimi_words</item>
+        <item>zhixue</item>
+        <item>zhuanzhuan</item>
+        <item>zlive</item>
+        <item>zuoyebang</item>
+    </string-array>
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- Make sure the filters names are the same as the other arrays -->
+    <string-array name="icon_filters">
+        <item>newly_updated</item>
+        <item>activities_and_alternative</item>
+        <item>social_and_community</item>
+        <!--<item>reading_and_education</item>
+        <item>daily_life</item>
+        <item>creation_and_efficiency</item>-->
+        <item>games</item>
+        <!--<item>multimedia</item>
+        <item>tools</item>-->
+        <item>system</item>
+        <item>theme_and_iconpack</item>
+        <!--<item>xiaomi</item>
+        <item>oppo</item>
+        <item>tencent</item>
+        <item>google</item>
+        <item>microsoft</item>
+        <item>independent_developers</item>-->
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <!--<item>u</item>-->
+        <item>v</item>
+        <item>w</item>
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array>
+
+    <string-array name="newly_updated">
+        <item>google_drive</item>
+        <item>ifanr</item>
+        <item>mokee_center</item>
+        <item>mikunavi</item>
+    </string-array>
+
+    <string-array name="activities_and_alternative">
+        <item>aide_alt</item>
+        <item>alipay_1</item>
+        <item>alipay_2</item>
+        <item>alipay_3</item>
+        <item>bilibili_alt</item>
+        <item>coolapk_article</item>
+        <item>gallery_alt</item>
+        <item>go_hosts_alt</item>
+        <item>google_play_alt</item>
+        <item>icon_dog</item>
+        <item>icon_peppa</item>
+        <item>icon_sakura</item>
+        <item>meitu_alt</item>
+        <item>mourn_at_bullet_messenger</item>
+        <item>mx_player_alt</item>
+        <item>nova_settings</item>
+        <item>one_wooden_letter_v7</item>
+        <item>qqmusic_alt</item>
+        <item>snapseed_alt</item>
+        <item>tabikaeru_alt</item>
+        <item>tabikaeru_alt2</item>
+        <item>video_alt</item>
+        <item>wechatpay_1</item>
+        <item>wechatpay_2</item>
+        <item>xiaoyuan_souti_alt</item>
+        <item>yiju_gou</item>
+    </string-array>
+
+   <string-array name="social_and_community">
+        <item>allo</item>
+        <item>baidu_tieba</item>
+        <item>blued</item>
+       <item>blued_intl</item>
+       <item>bullet_messenger</item>
+       <item>coloros_community</item>
+       <item>coolapk</item>
+       <item>coolapk_article</item>
+       <item>coolapk_vn</item>
+       <item>facebook</item>
+       <item>gmail</item>
+       <item>huawei_club</item>
+       <item>ifanr</item>
+       <item>ithome</item>
+       <item>jianshu</item>
+       <item>jike</item>
+       <item>manga_monster</item>
+       <item>meitu</item>
+       <item>meitu_alt</item>
+       <item>mi_bbs</item>
+       <item>mi_channel</item>
+       <item>miui_bbs</item>
+       <item>mourn_at_bullet_messenger</item>
+       <item>onrplus_community</item>
+       <item>oppo_plus</item>
+       <item>outlook</item>
+       <item>picacg</item>
+       <item>qeebo_geek</item>
+       <item>qq</item>
+       <item>qq_hd</item>
+       <item>qq_intl</item>
+       <item>qq_mail</item>
+       <item>qqlite</item>
+       <item>qzone</item>
+       <item>share</item>
+       <item>taptap</item>
+       <item>telegram</item>
+       <item>telegram_x</item>
+       <item>tencent_karaoke</item>
+       <item>tim</item>
+       <item>tumblr</item>
+       <item>twitter</item>
+       <item>wechat</item>
+       <item>wechatpay_1</item>
+       <item>weibo</item>
+       <item>weibo_intl</item>
+       <item>zcool</item>
+       <item>zhihu</item>
+    </string-array>
+
+    <!--<string-array name="reading_and_education">
+        <item>blue_circle</item>
+        <item>blue_rectangle</item>
+        <item>blue_square</item>
+    </string-array>
+
+    <string-array name="daily_life">
+        <item>purple_circle</item>
+        <item>purple_rectangle</item>
+        <item>purple_square</item>
+    </string-array>
+
+    <string-array name="creation_and_efficiency">
+        <item>red_circle</item>
+        <item>red_rectangle</item>
+        <item>red_square</item>
+    </string-array>-->
+
+    <string-array name="games">
+        <item>azurlane</item>
+        <item>cytus_ii</item>
+        <item>dancing_line</item>
+        <item>duet</item>
+        <item>fate_grand_order</item>
+        <item>ingress</item>
+        <item>lovelive</item>
+        <item>memeda</item>
+        <item>mikunavi</item>
+        <item>onmyoji</item>
+        <item>onmyoji_bili</item>
+        <item>sanguosha</item>
+        <item>tabikaeru</item>
+        <item>tabikaeru_alt</item>
+        <item>tabikaeru_alt2</item>
+    </string-array>
+
+   <!--<string-array name="multimedia">
+        <item>amber_rectangle</item>
+        <item>blue_rectangle</item>
+        <item>purple_rectangle</item>
+        <item>red_rectangle</item>
+    </string-array>
+
+    <string-array name="tools">
+
+    </string-array>-->
+
+    <string-array name="system">
+        <item>account</item>
+        <item>browser</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>download</item>
+        <item>drawer</item>
+        <item>email</item>
+        <item>files</item>
+        <item>fm_radio</item>
+        <item>gallery</item>
+        <item>health</item>
+        <item>maps</item>
+        <item>market</item>
+        <item>music</item>
+        <item>notes</item>
+        <item>news</item>
+        <item>phone</item>
+        <item>recorder</item>
+        <item>remote</item>
+        <item>scanner</item>
+        <item>security</item>
+        <item>settings</item>
+        <item>sim_toolkit</item>
+        <item>sms</item>
+        <item>sys_update</item>
+        <item>themes</item>
+        <item>video</item>
+        <item>voice_assistant</item>
+        <item>weather</item>
+    </string-array>
+
+    <string-array name="theme_and_iconpack">
+        <item>blue_iconpack</item>
+        <item>cornerx</item>
+        <item>flugilo</item>
+        <item>goodseed</item>
+        <item>icon</item>
+        <item>lp</item>
+        <item>nokia_evolve_plus</item>
+        <item>oblatum</item>
+        <item>oblatum_dev</item>
+        <item>omfg</item>
+        <item>omfg_air</item>
+        <item>omfg_lite</item>
+    </string-array>
+
+    <string-array name="a">
+        <item>account</item>
+        <item>aide_alt</item>
+        <item>aide</item>
+        <item>air_frozen</item>
+        <item>alipay_1</item>
+        <item>alipay_2</item>
+        <item>alipay_3</item>
+        <item>alipay</item>
+        <item>allo</item>
+        <item>amap</item>
+        <item>apkpure</item>
+        <item>appchecker</item>
+        <item>audio_fx</item>
+        <item>autodesk_sketchbook</item>
+        <item>azurlane</item>
+    </string-array>
+
+    <string-array name="b">
+        <item>baidu_map</item>
+        <item>baidu_netdisk</item>
+        <item>baidu_tieba</item>
+        <item>baimiao</item>
+        <item>bilibili_alt</item>
+        <item>bilibili_concept</item>
+        <item>bilibili</item>
+        <item>bing</item>
+        <item>block_launcher</item>
+        <item>blue_iconpack</item>
+        <item>blued_intl</item>
+        <item>blued</item>
+        <item>bmac</item>
+        <item>bmap</item>
+        <item>brevent</item>
+        <item>browser</item>
+        <item>bullet_messenger</item>
+    </string-array>
+
+    <string-array name="c">
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>canva</item>
+        <item>ccb</item>
+        <item>chelaile</item>
+        <item>china_telecom</item>
+        <item>chrome</item>
+        <item>clock</item>
+        <item>cloudmusic</item>
+        <item>cntv</item>
+        <item>coloros_community</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>coolapk_article</item>
+        <item>coolapk_vn</item>
+        <item>coolapk</item>
+        <item>cornerx</item>
+        <item>cortana</item>
+        <item>cr_12306</item>
+        <item>ct_ecloud</item>
+        <item>ct_pay</item>
+        <item>ctrip</item>
+        <item>cytus_ii</item>
+    </string-array>
+
+    <string-array name="d">
+        <item>dancing_line</item>
+        <item>dev_check</item>
+        <item>didi</item>
+        <item>dir</item>
+        <item>dolby_atmos</item>
+        <item>douyu</item>
+        <item>download</item>
+        <item>download</item>
+        <item>drawer</item>
+        <item>duet</item>
+        <item>duokan</item>
+</string-array>
+
+    <string-array name="e">
+        <item>edge</item>
+        <item>ele_me</item>
+        <item>email</item>
+        <item>es</item>
+        <item>evernote</item>
+</string-array>
+
+    <string-array name="f">
+        <item>facebook</item>
+        <item>fate_grand_order</item>
+        <item>files_go</item>
+        <item>files</item>
+        <item>flugilo</item>
+        <item>fm_radio</item>
+        <item>forfan_bigbang</item>
+        <item>french_helper</item>
+        <item>fusion_app</item>
+</string-array>
+
+    <string-array name="g">
+        <item>gallery_alt</item>
+        <item>gallery</item>
+        <item>gboard</item>
+        <item>geometric_weather</item>
+        <item>gmail</item>
+        <item>go_hosts_alt</item>
+        <item>go_hosts</item>
+        <item>goodseed</item>
+        <item>google_calculator</item>
+        <item>google_cantonese_input</item>
+        <item>google_japanese_input</item>
+        <item>google_keep</item>
+        <item>google_maps</item>
+        <item>google_pinyin_input</item>
+        <item>google_play_alt</item>
+        <item>google_play_games</item>
+        <item>google_play</item>
+        <item>google_space</item>
+        <item>google_tasks</item>
+        <item>google_translate</item>
+        <item>google_zhuyin_input</item>
+        <item>google</item>
+        <item>greenify</item>
+</string-array>
+
+    <string-array name="h">
+        <item>health</item>
+        <item>huawei_club</item>
+    </string-array>
+
+    <string-array name="i">
+        <item>icebox</item>
+        <item>icon_dog</item>
+        <item>icon_peppa</item>
+        <item>icon_sakura</item>
+        <item>icon</item>
+        <item>idlefish</item>
+        <item>ifttt</item>
+        <item>imlk_oneword</item>
+        <item>ingress</item>
+        <item>iqiyi</item>
+        <item>ithome</item>
+    </string-array>
+
+    <string-array name="j">
+        <item>jd</item>
+        <item>jianshu</item>
+        <item>jike</item>
+    </string-array>
+
+    <string-array name="k">
+        <item>keep</item>
+        <item>kingsoft_powerword</item>
+    </string-array>
+
+    <string-array name="l">
+        <item>lantern</item>
+        <item>lawnchair</item>
+        <item>le_sync</item>
+        <item>liulishuo</item>
+        <item>lovelive</item>
+        <item>lp</item>
+        <item>lyuye_vpn</item>
+    </string-array>
+
+    <string-array name="m">
+        <item>magisk</item>
+        <item>manga_monster</item>
+        <item>maps</item>
+        <item>market</item>
+        <item>mega</item>
+        <item>meitu_alt</item>
+        <item>meitu</item>
+        <item>meituan</item>
+        <item>memeda</item>
+        <item>mi_bbs</item>
+        <item>mi_channel</item>
+        <item>mi_feedback</item>
+        <item>mi_finance</item>
+        <item>mi_fit</item>
+        <item>mi_game</item>
+        <item>mi_home</item>
+        <item>mi_joy</item>
+        <item>mi_life</item>
+        <item>mi_recorder</item>
+        <item>mi_store</item>
+        <item>mi_video</item>
+        <item>mi_virtualsim</item>
+        <item>mi_wallet</item>
+        <item>mico</item>
+        <item>microsoft_excel</item>
+        <item>microsoft_launcher</item>
+        <item>microsoft_powerpoint</item>
+        <item>microsoft_word</item>
+        <item>mikunavi</item>
+        <item>minecraft</item>
+        <item>mini_metro</item>
+        <item>miui_bbs</item>
+        <item>mogicians_manual</item>
+        <item>mokee_center</item>
+        <item>more_shortcuts</item>
+        <item>mourn_at_bullet_messenger</item>
+        <item>mr_translator</item>
+        <item>mt</item>
+        <item>music_tag_editor</item>
+        <item>music</item>
+        <item>mx_player_alt</item>
+        <item>mx_player</item>
+    </string-array>
+
+    <string-array name="n">
+        <item>netease_news</item>
+        <item>news</item>
+        <item>night_screen</item>
+        <item>nokia_evolve_plus</item>
+        <item>notes</item>
+        <item>nova_launcher</item>
+        <item>nova_settings</item>
+    </string-array>
+
+    <string-array name="o">
+        <item>oblatum_dev</item>
+        <item>oblatum</item>
+        <item>ofo</item>
+        <item>omfg_air</item>
+        <item>omfg_lite</item>
+        <item>omfg</item>
+        <item>one_diary</item>
+        <item>one_wooden_letter_v7</item>
+        <item>one_wooden_letter</item>
+        <item>onedrive</item>
+        <item>oneplus_community</item>
+        <item>oneplus_switch</item>
+        <item>onmyoji_bili</item>
+        <item>onmyoji</item>
+        <item>oppo_bookstore</item>
+        <item>oppo_clone</item>
+        <item>oppo_data</item>
+        <item>oppo_find_my_phone</item>
+        <item>oppo_game_space</item>
+        <item>oppo_mini_games</item>
+        <item>oppo_plus</item>
+        <item>oppo_reading</item>
+        <item>oppo_tips</item>
+        <item>outlook</item>
+    </string-array>
+
+    <string-array name="p">
+        <item>phone</item>
+        <item>phonograph</item>
+        <item>photo_editor</item>
+        <item>picacg</item>
+        <item>ppsspp</item>
+        <item>ps_touch</item>
+        <item>pure_mosaic</item>
+        <item>pure_writer</item>
+    </string-array>
+
+    <string-array name="q">
+        <item>qeebo_geek</item>
+        <item>qidian</item>
+        <item>qq_hd</item>
+        <item>qq_intl</item>
+        <item>qq_mail</item>
+        <item>qq</item>
+        <item>qqlite</item>
+        <item>qqmusic_alt</item>
+        <item>qqmusic</item>
+        <item>quark</item>
+        <item>quik</item>
+        <item>qunar</item>
+        <item>qzone</item>
+    </string-array>
+
+    <string-array name="r">
+        <item>rbqbompass</item>
+        <item>recorder</item>
+        <item>remote</item>
+        <item>retro_music</item>
+        <item>root_explorer</item>
+    </string-array>
+
+    <string-array name="s">
+        <item>sanguosha</item>
+        <item>scanner</item>
+        <item>screen_recorder</item>
+        <item>sd_maid</item>
+        <item>search_lite</item>
+        <item>security</item>
+        <item>settings</item>
+        <item>shanbay_listen</item>
+        <item>shanbay_speak</item>
+        <item>shanbay_words</item>
+        <item>share</item>
+        <item>shimo</item>
+        <item>shuibiaocha_zhushou</item>
+        <item>shuttle_plus</item>
+        <item>sim_toolkit</item>
+        <item>simcity</item>
+        <item>sms</item>
+        <item>snapseed_alt</item>
+        <item>snapseed</item>
+        <item>sohu_video</item>
+        <item>solid_explorer</item>
+        <item>spotify</item>
+        <item>ssr</item>
+        <item>ssrr</item>
+        <item>stopapp</item>
+        <item>storage_cleaner</item>
+        <item>substratum</item>
+        <item>surf_vpn</item>
+        <item>sys_update</item>
+    </string-array>
+
+    <string-array name="t">
+        <item>tabikaeru_alt</item>
+        <item>tabikaeru_alt2</item>
+        <item>tabikaeru</item>
+        <item>taobao</item>
+        <item>taptap</item>
+        <item>telegram_x</item>
+        <item>telegram</item>
+        <item>tencent_karaoke</item>
+        <item>tencent_video</item>
+        <item>tesla_unread</item>
+        <item>themes</item>
+        <item>tim</item>
+        <item>tmri_12123</item>
+        <item>tom_vpn</item>
+        <item>total_launcher</item>
+        <item>toutiao</item>
+        <item>tumblr</item>
+        <item>twitter</item>
+    </string-array>
+
+    <!--<string-array name="u">
+        <item>keep</item>
+        <item>kingsoft_powerword</item>
+    </string-array>-->
+
+    <string-array name="v">
+        <item>via</item>
+        <item>video_alt</item>
+        <item>video</item>
+        <item>voice_assistant</item>
+        <item>vpn_melon</item>
+    </string-array>
+
+    <string-array name="w">
+        <item>wangzhe_rongyao</item>
+        <item>weather</item>
+        <item>wechat</item>
+        <item>wechatpay_1</item>
+        <item>wechatpay_2</item>
+        <item>weibo_intl</item>
+        <item>weibo</item>
+        <item>weiyun</item>
+        <item>wifi_key</item>
+        <item>wisdomtree_zhidao</item>
+        <item>wps_office</item>
+    </string-array>
+
+    <string-array name="x">
+        <item>xiaoai</item>
+        <item>xiaoyuan_souti_alt</item>
+        <item>xiaoyuan_souti</item>
+        <item>ximalaya</item>
+        <item>xinhua_zidian</item>
+        <item>xposed_installer</item>
+        <item>xuexi_qiangguo</item>
+        <item>xunlei</item>
+        <item>xyz_notes</item>
+    </string-array>
+
+    <string-array name="y">
+        <item>yiju_gou</item>
+        <item>yiju</item>
+        <item>ylmf_115</item>
+        <item>youku</item>
+        <item>youpin</item>
+        <item>youtube</item>
+        <item>yunduo_night_tools</item>
+    </string-array>
+
+    <string-array name="z">
+        <item>zarchiver_pro</item>
+        <item>zarchiver</item>
+        <item>zcool</item>
+        <item>zhihu</item>
+        <item>zhimi_words</item>
+        <item>zhixue</item>
+        <item>zhuanzhuan</item>
+        <item>zlive</item>
+        <item>zuoyebang</item>
+    </string-array>
+
+</resources>
